@@ -1,8 +1,8 @@
 ## Hi there  <h2> 
 
-```
-</code> </h2> <script> alert(123) </script><code>
-```
+ 
+-  <script> alert(123) </script> 
+ 
 <!--
 **iwusong/iwusong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
